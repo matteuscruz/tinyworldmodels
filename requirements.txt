@@ -7,6 +7,8 @@ matplotlib>=3.3.0
 tqdm>=4.62.0
 einops>=0.3.0
 h5py>=3.1.0
-opencv-python>=4.5.0 
+opencv-python>=4.5.0
 omegaconf
 huggingface_hub>=0.23.0
+# Spaces demo
+gradio>=4.0.0
